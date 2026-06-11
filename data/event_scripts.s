@@ -1739,3 +1739,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/wild_encounter.inc"
 
 	.include "data/maps/StarterTown_Rename/scripts.inc"
+
+	.include "data/maps/StarterTown_Rename/scripts.inc"
