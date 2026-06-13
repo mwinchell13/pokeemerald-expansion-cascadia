@@ -424,8 +424,8 @@ const u16 gMetatileAttributes_EmeraldSlide[] = INCBIN_U16("data/tilesets/seconda
 const u16 gMetatiles_Sewer[] = INCBIN_U16("data/tilesets/secondary/sewer/metatiles.bin");
 const u16 gMetatileAttributes_Sewer[] = INCBIN_U16("data/tilesets/secondary/sewer/metatile_attributes.bin");
 
-const u16 gMetatiles_ShadyForest[] = INCBIN_U16("data/tilesets/primary/shady_forest/metatiles.bin");
-const u16 gMetatileAttributes_ShadyForest[] = INCBIN_U16("data/tilesets/primary/shady_forest/metatile_attributes.bin");
+const u16 gMetatiles_ShadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatiles.bin");
+const u16 gMetatileAttributes_ShadyForest[] = INCBIN_U16("data/tilesets/secondary/shady_forest/metatile_attributes.bin");
 
 const u16 gMetatiles_SmallTownWithLab[] = INCBIN_U16("data/tilesets/secondary/small_town_with_lab/metatiles.bin");
 const u16 gMetatileAttributes_SmallTownWithLab[] = INCBIN_U16("data/tilesets/secondary/small_town_with_lab/metatile_attributes.bin");

@@ -9327,12 +9327,22 @@
     {
       "id": "LAYOUT_STARTER_TOWN_RENAME",
       "name": "StarterTown_Rename_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 44,
+      "height": 24,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_BrickCity",
+      "secondary_tileset": "gTileset_SmallTownWithLab",
       "border_filepath": "data/layouts/StarterTown_Rename/border.bin",
       "blockdata_filepath": "data/layouts/StarterTown_Rename/map.bin"
+    },
+    {
+      "id": "LAYOUT_HAUNTED_HOH",
+      "name": "Haunted_Hoh_Layout",
+      "width": 90,
+      "height": 65,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_ShadyForest",
+      "border_filepath": "data/layouts/Haunted_Hoh/border.bin",
+      "blockdata_filepath": "data/layouts/Haunted_Hoh/map.bin"
     }
   ]
 }

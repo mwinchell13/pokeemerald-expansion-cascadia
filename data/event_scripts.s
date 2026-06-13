@@ -1740,4 +1740,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/StarterTown_Rename/scripts.inc"
 
-	.include "data/maps/StarterTown_Rename/scripts.inc"
+
+	.include "data/maps/Haunted_Hoh/scripts.inc"

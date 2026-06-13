@@ -75,7 +75,8 @@
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
-    "gMapGroup_NewTownsAndRoutes"
+    "gMapGroup_NewTownsAndRoutes",
+    "gMapGroup_Dungeons_Cascadia"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1164,5 +1165,8 @@
   ],
   "gMapGroup_NewTownsAndRoutes": [
     "StarterTown_Rename"
+  ],
+  "gMapGroup_Dungeons_Cascadia": [
+    "Haunted_Hoh"
   ]
 }
